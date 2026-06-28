@@ -15,12 +15,7 @@ I performed an accessibility audit on my personal webpage (`index.html`) using C
 2. **Headings** — Proper hierarchy (h1 → h2)
 3. **Links** — Used clear descriptive link text
 4. **Language** — Added `lang="en"` to `<html>` tag
-5. **Form labels** — Not applicable (no forms on the page)
-
-**Additional fixes:**
-- Added proper `<!DOCTYPE html>`
-- Fixed broken paragraph
-- Added `rel="noopener"` to external link
+   
 
 ## Tools Used
 - Chrome DevTools Lighthouse
