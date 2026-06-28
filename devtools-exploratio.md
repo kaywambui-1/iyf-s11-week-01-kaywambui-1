@@ -1,3 +1,15 @@
+Website 1: https://example.com
+
+HTML Tags Used: <html>, <head>, <title>, <body>, <div>, <h1>, <p>, <a>, <hr>
+Page Title: Example Domain
+Number of Headings: 1 (<h1>)
+
+
+Website 2: https://developer.mozilla.org
+
+Navigation Menu: Wrapped in <nav> tag (with class mdn-header)
+Search Bar: Inside <form> with <input type="search"> and a search icon
+Hover on Links: Links get text-decoration: underline + slight color change (usually blue to darker blue)
 ## Website 3: https://www.youtube.com
 
 1. **5 Different HTML Elements Identified**:
