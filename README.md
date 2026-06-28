@@ -1,5 +1,4 @@
- iyf-s11-week-01-kaywambui-1
-week 01 assignment and daily tasks
+
 # Week 01: Web Foundations
 
 ## Author
@@ -8,18 +7,10 @@ week 01 assignment and daily tasks
 - **Date:** June 23, 2026
 
 ## Project Description
-Brief description of what you built and why.
+This introduction to web foundations provided practical application for the concepts covered in the first lesson of my computer programming course. Through this assignment, I gained valuable foundational experience in the world of programming.
 
 ## Technologies Used
 - HTML5
-- CSS3
-- JavaScript
-- (list all technologies)
-
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
 
 ## How to Run
 1. Clone this repository
@@ -28,13 +19,4 @@ Brief description of what you built and why.
    Run `npm install` then `npm start`
 
 ## Lessons Learned
-What did you learn while building this project?
-
-## Challenges Faced
-What problems did you encounter and how did you solve them?
-
-## Screenshots (optional)
-![Screenshot description](path/to/screenshot.png)
-
-## Live Demo (if deployed)
-[View Live Demo](https://your-deployed-url.com)
+Mastering computer programming demands a consistent, daily commitment to practice.
